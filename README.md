@@ -19,3 +19,62 @@ This project demonstrates how Machine Learning can be used in **health analytics
 - Predict obesity levels based on individual attributes
 
 ---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- pandas  
+- NumPy  
+- scikit-learn  
+- matplotlib  
+- seaborn  
+
+---
+
+## 🔹 Project Workflow
+
+1. Load and explore the obesity dataset
+2. Perform Exploratory Data Analysis (EDA)
+3. Handle missing values and inconsistent data
+4. Encode categorical variables
+5. Apply feature scaling using StandardScaler
+6. Split dataset into training and testing sets
+7. Train the **KNN classification model**
+8. Evaluate model performance using:
+   - Accuracy Score
+   - Confusion Matrix
+   - Classification Report
+9. Predict obesity category for new data
+
+---
+
+## 📊 Key Insights
+
+- Lifestyle factors such as **physical activity, food habits, and transportation methods** influence obesity levels.
+- Proper feature scaling significantly improves **KNN performance**.
+- KNN works effectively for **health-related classification problems**.
+
+---
+
+
+---
+
+## 📈 Applications
+
+- Health risk prediction
+- Fitness and lifestyle analytics
+- Preventive healthcare systems
+- Health monitoring applications
+
+---
+
+## 🔮 Future Enhancements
+
+- Compare KNN with other classification models (Logistic Regression, Random Forest)
+- Perform hyperparameter tuning using GridSearchCV
+- Add feature importance analysis
+- Deploy model using Streamlit or Flask
+
+---
+
